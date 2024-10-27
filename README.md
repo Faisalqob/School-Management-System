@@ -21,7 +21,7 @@ To compile and run this code, you will need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/school-management-system.git
+   git clone https://github.com/Faisalqob/school-management-system.git
    cd school-management-system
    ```
 
